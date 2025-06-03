@@ -1,4 +1,18 @@
-# Data Pipeline Development – Internship Task (Codetech)
+# Data Pipeline Development
+
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : YASEER SHAIK
+
+INTERN ID : CT06DM03
+
+DOMAIN : DATA SCEINCE
+
+DURATION : 6 WEEKS
+
+MENTOR : NEELA SANTHOSH 
+
+# Data Pipeline Development – Internship Task (Codtech)
 
 This project is a Python-based ETL (Extract, Transform, Load) pipeline developed as part of an internship task at **Codetech**. The pipeline automates data preprocessing, transformation, and loading using libraries like **Pandas** and **Scikit-learn**.
 
